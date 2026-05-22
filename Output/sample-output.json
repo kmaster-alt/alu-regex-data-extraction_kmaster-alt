@@ -1,0 +1,19 @@
+{
+    "emails": [
+        "alueducation.com",
+        "alumni.alueducation.com",
+        "si.alueducation.com"
+    ],
+    "urls": [
+        "https://www.alueducation.com",
+        "http://example.org"
+    ],
+    "phones": [
+        "+250 788 123 456",
+        "(202) 555-0178"
+    ],
+    "credit_cards": [
+        "************1111",
+        "************0004"
+    ]
+}

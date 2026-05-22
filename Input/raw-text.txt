@@ -1,0 +1,21 @@
+Emails:
+john.doe@alueducation.com
+mary@alumni.alueducation.com
+team@si.alueducation.com
+fake@@email..com
+
+URLs:
+https://www.alueducation.com
+http://example.org
+
+Phones:
++250 788 123 456
+(202) 555-0178
+
+Credit Cards:
+4111 1111 1111 1111
+5500-0000-0000-0004
+
+Unsafe Text:
+<script>alert('hack')</script>
+DROP TABLE users;
